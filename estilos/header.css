@@ -3,11 +3,14 @@
     flex-flow: row wrap;
     align-items: center;
     margin: 2em;
+    width: 90%;
 }
 
 .cabecalho__container {
     display: flex;
     align-items: center;
+    padding: 0 4em 0 4em;
+
 }
 
 .cabecalho__texto{

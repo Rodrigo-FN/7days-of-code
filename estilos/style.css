@@ -1,5 +1,7 @@
 @charset "UTF-8";
 @import url('./header.css');
+@import url('./container-p1.css');
+@import url('./container-p2.css');
 
 :root {
     --font-principal: 'Inter', sans-serif;
@@ -7,6 +9,7 @@
     --cinza-escuro: #3A404E;
     --cinza-claro: #667085;
     --vermelho: #8E2424;
+    --preto: #101828;
 }
 
 body {
