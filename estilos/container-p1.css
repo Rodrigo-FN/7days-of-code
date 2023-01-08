@@ -7,6 +7,12 @@
     margin: 0 auto;
 }
 
+.container__p1-texto-lateral {
+    width: 300px;
+    text-align: justify;
+    color: var(--cinza-claro);
+}
+
 .container__p1-sobre {
     color: var(--vermelho);
     font-weight: 600;
