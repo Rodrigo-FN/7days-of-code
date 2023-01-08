@@ -1,0 +1,39 @@
+.containe__desenvolvedor {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    background-color: rgba(196, 25, 25, 0.03);
+    border-radius: 16px;
+}
+
+.desenvolvedor {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.dev__texto {
+    padding-top: 3em;
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--vermelho);
+
+}
+
+.dev__titulo {
+    font-weight: 500;
+    font-size: 36px;
+    color: var(--preto);
+    padding: 1em 0;
+}
+
+
+.dev__julia {
+    font-weight: 500;
+    color: var(--preto);
+    padding: 1em 0;
+}
+
+.dev__text-web {
+    font-size: 14px;
+    color: var(--cinza-claro);
+}

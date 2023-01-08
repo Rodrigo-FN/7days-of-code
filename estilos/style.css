@@ -4,6 +4,8 @@
 @import url('./container-p2.css');
 @import url('./containe-img.css');
 @import url('./list.css');
+@import url('./dev.css');
+@import url('./rodape.css');
 :root {
     --font-principal: 'Inter', sans-serif;
     --cor-de-fundo: #FFFFFF;

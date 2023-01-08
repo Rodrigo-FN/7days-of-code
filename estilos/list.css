@@ -19,10 +19,12 @@ ul {
 }
 
 .list__item {
-    display: block;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
     height: 136px;
-    border: 1px solid #6670854d;
-    border-radius: 5px;
+    border: 1px solid #6670851a;
+    border-radius: 15px;
     padding: 1em;
     margin: 1em 0;
 }
@@ -31,4 +33,13 @@ ul {
     font-weight: 500;
     font-size: 18px;
     color: var(--preto);
+}
+
+.list__salario {
+    font-weight: 500;
+    color: var(--cinza-claro);
+}
+
+.list__span {
+    margin-left: 2em;
 }
