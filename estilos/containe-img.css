@@ -4,9 +4,14 @@
 }
 
 .img__vagas {
+    display: inline-block;
+    padding: 1em;
     font-weight: 500;
     font-size: 14px;
+    background-color: rgba(142, 36, 36, 0.05);
     color: var(--vermelho);
+
+    border-radius: 16px;
 }
 
 .img__titulo {
